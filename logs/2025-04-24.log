@@ -1,0 +1,41 @@
+2025-04-24 15:50:00,561 - INFO - Starting the application
+2025-04-24 15:50:00,561 - ERROR - An error occurred
+2025-04-24 15:50:00,561 - WARNING - This is a warning message
+2025-04-24 17:30:48,093 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 17:30:49,765 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 17:31:13,448 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 17:31:14,680 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 17:32:25,544 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 17:32:26,711 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 17:32:26,726 - INFO - Train size: 26930, Validation size: 2993, Test size: 16925
+2025-04-24 17:33:17,427 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 17:33:18,599 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 17:33:18,613 - INFO - Train size: 26930, Validation size: 2993, Test size: 16925
+2025-04-24 17:33:18,629 - INFO - Saved train data to artifacts\raw\train.csv
+2025-04-24 17:33:18,631 - INFO - Saved val data to artifacts\raw\val.csv
+2025-04-24 17:33:18,639 - INFO - Saved test data to artifacts\raw\test.csv
+2025-04-24 17:33:18,639 - INFO - Data ingestion process completed successfully.
+2025-04-24 18:12:08,820 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 18:12:10,954 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 18:12:10,968 - INFO - Train size: 26930, Validation size: 2993, Test size: 16925
+2025-04-24 18:12:10,983 - INFO - Saved train data to artifacts\raw\train.csv
+2025-04-24 18:12:10,985 - INFO - Saved val data to artifacts\raw\val.csv
+2025-04-24 18:12:10,994 - INFO - Saved test data to artifacts\raw\test.csv
+2025-04-24 18:12:10,994 - INFO - Data ingestion process completed successfully.
+2025-04-24 21:10:23,698 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 21:10:25,119 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 21:10:25,135 - INFO - Train size: 26930, Validation size: 2993, Test size: 16925
+2025-04-24 21:10:25,150 - INFO - Saved train data to artifacts\raw\train.csv
+2025-04-24 21:10:25,152 - INFO - Saved val data to artifacts\raw\val.csv
+2025-04-24 21:10:25,161 - INFO - Saved test data to artifacts\raw\test.csv
+2025-04-24 21:10:25,161 - INFO - Data ingestion process completed successfully.
+2025-04-24 21:11:03,329 - INFO - Starting data ingestion process for https://tapsi-test.s3.ir-thr-at1.arvanstorage.ir/data.txt
+2025-04-24 21:11:04,377 - INFO - Data Format: 732 periods, 8x8 grid
+2025-04-24 21:11:04,393 - INFO - Train size: 26930, Validation size: 2993, Test size: 16925
+2025-04-24 21:11:04,410 - INFO - Saved train data to artifacts\raw\train.csv
+2025-04-24 21:11:04,412 - INFO - Saved val data to artifacts\raw\val.csv
+2025-04-24 21:11:04,421 - INFO - Saved test data to artifacts\raw\test.csv
+2025-04-24 21:11:04,421 - INFO - Data ingestion process completed successfully.
+2025-04-24 21:11:04,424 - INFO - Starting data processing...
+2025-04-24 21:11:04,531 - INFO - Saved processed data to artifacts\processed.
+2025-04-24 21:11:04,532 - INFO - Data processing completed.
